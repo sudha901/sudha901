@@ -5,43 +5,71 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sudha901">
-    <img src="https://img.shields.io/badge/GitHub-sudha901-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
+  <a href="https://github.com/sudha901"><img src="https://img.shields.io/badge/GitHub-sudha901-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <img src="https://komarev.com/ghpvc/?username=sudha901&style=for-the-badge&color=58a6ff" alt="Profile views">
 </p>
 
 ## 👩‍💻 About Me
 
-I'm **Sudha G**, a developer who enjoys learning, building, and turning ideas into practical digital experiences.
+I'm **Sudha G**, a developer interested in creating practical, responsive, and user-focused digital experiences across modern web and business platforms.
 
-- 🔭 Currently building and improving my developer portfolio
-- 🌱 Continuously learning new technologies and development practices
-- 💡 Interested in clean, useful, and user-focused solutions
-- 🤝 Open to collaboration, learning, and interesting projects
-- 📍 India
+- 🌐 Web development & responsive UI
+- ⚛️ React application development
+- 🧩 WordPress & Wix website customization
+- 🏢 SharePoint / Microsoft 365 solutions
+- 🎨 Bootstrap-based responsive interfaces
+- 📚 Continuous learning and hands-on projects
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&perline=8" alt="Technology stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress,git,github,vscode&perline=9" alt="Technology stack">
 </p>
 
-## 🚀 What I Like Building
+**Platforms:** WordPress • SharePoint • Wix  
+**Development:** React • JavaScript • HTML • CSS • Bootstrap  
+**Tools:** Git • GitHub • VS Code
 
-- 🌐 Web applications & responsive interfaces
-- 🤖 Automation and productivity tools
-- 📊 Data-driven projects
-- 🧩 Practical developer utilities
-- 📚 Learning projects that turn concepts into working software
+## 🚀 Portfolio Projects
 
-## 📌 Featured Projects
+### 🌐 WordPress Business Website
+A professional business-site concept focused on responsive design, content structure, services, testimonials, and SEO-friendly layouts.
 
-> More projects will be added here as I build and publish them.
+**Stack:** WordPress • PHP • HTML • CSS • JavaScript  
+📁 [View project](./projects/wordpress-business-site)
 
-| Project | Description |
-|---|---|
-| 🚧 Coming Soon | New projects are on the way |
+### ⚛️ React Task Dashboard
+A modern task-management dashboard demonstrating reusable components, filtering, state management patterns, and responsive UI.
+
+**Stack:** React • JavaScript • Vite • CSS  
+📁 [View project](./projects/react-task-dashboard)
+
+### 🎨 Bootstrap Product Landing Page
+A mobile-first product landing page using Bootstrap's responsive grid and reusable components.
+
+**Stack:** HTML • Bootstrap 5 • JavaScript  
+📁 [View project](./projects/bootstrap-product-landing)
+
+### 🏢 SharePoint Team Hub
+A SharePoint intranet concept for announcements, quick links, documents, projects, and team resources.
+
+**Stack:** SharePoint Online • Microsoft 365 • SPFx • TypeScript  
+📁 [View project](./projects/sharepoint-team-hub)
+
+### ✨ Wix Service Website
+A Wix/Velo service-business concept combining CMS-ready content with JavaScript customization and lead capture.
+
+**Stack:** Wix • Wix CMS • Velo • JavaScript  
+📁 [View project](./projects/wix-service-website)
+
+## 💡 What I Like Building
+
+- 🌐 Business & portfolio websites
+- ⚛️ Interactive React applications
+- 🏢 Intranet and collaboration solutions
+- 📱 Responsive user interfaces
+- 🔧 CMS customizations
+- 🤖 Practical productivity solutions
 
 ## 📈 GitHub Activity
 
@@ -57,13 +85,9 @@ I'm **Sudha G**, a developer who enjoys learning, building, and turning ideas in
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://github.com/sudha901">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
+  <a href="https://github.com/sudha901"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
 ---
 
-<p align="center">
-  <b>✨ Build. Learn. Improve. Repeat.</b>
-</p>
+<p align="center"><b>✨ Build. Learn. Improve. Repeat.</b></p>
