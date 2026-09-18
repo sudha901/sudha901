@@ -1,0 +1,13 @@
+// Wix Velo backend example.
+// Place in the Wix backend folder as a .jsw web module.
+
+import { contacts } from "wix-crm-backend";
+
+export async function createLead(firstName, lastName, email) {
+  if (!email) throw new Error("Email is required.");
+
+  return contacts.appendOrCreateContact({
+    name: { first: firstName, last: lastName },
+    emails: [{ email }]
+  });
+}
