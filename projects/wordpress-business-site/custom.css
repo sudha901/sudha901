@@ -1,0 +1,29 @@
+/* Custom styling starter for a WordPress theme */
+:root {
+  --brand: #2563eb;
+  --dark: #111827;
+  --muted: #6b7280;
+}
+
+.hero-section {
+  padding: 96px 24px;
+  background: linear-gradient(135deg, #eff6ff, #ffffff);
+}
+
+.hero-section h1 {
+  color: var(--dark);
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
+  font-weight: 800;
+}
+
+.service-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 28px;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 36px rgba(17, 24, 39, .10);
+}
